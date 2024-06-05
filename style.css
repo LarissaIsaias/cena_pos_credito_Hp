@@ -1,0 +1,39 @@
+header{
+    background-color: black;
+    padding: 4px;
+    text-align: center;
+}
+
+.container{
+    background-color: black;
+    min-height: 60vh;
+    padding: 60px;
+    color: white;
+    text-align: center;
+}
+
+#rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.btn{
+    background-color: #082338;
+    display: block;
+    width: 10%;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    transition: 0.5s;
+    margin-left: 600px;
+}
+
+.container img{
+    border-radius: 15px;
+    height: 300px;
+    width: 300px;
+}
